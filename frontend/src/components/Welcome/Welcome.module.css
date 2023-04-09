@@ -1,0 +1,14 @@
+.welcome-tag{
+    text-align: center;
+    margin: 10%;
+}
+.items{
+    text-align: center ;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(19, 19, 63);
+    background-color: rgba(6, 10, 10, 0.226);
+}
+.list{
+    margin-bottom: 20%;
+}

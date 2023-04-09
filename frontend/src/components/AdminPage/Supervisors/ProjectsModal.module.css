@@ -1,0 +1,50 @@
+.darkBG{
+    background-color: rgba(0,0,0,0.2);
+    width: 100vw;
+    height: 100vh;
+    z-index: 10;
+    /* top : 50% ;  */
+    /* left : 50% ;  */
+    /* transform: translate (-50%,-50%); */
+    position : fixed ; 
+}
+.centered {
+  position: fixed;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.content{
+    position : absolute  ; 
+    z-index: 15 ;
+    background-color: rgb(134, 134, 134);
+    /* background-color: rgb(51, 139, 255); */
+    border: solid 1px rgb(255, 255, 255) ;
+    border-radius: 2%;
+    width: 40%;
+    /* height: 40%; */
+    padding: 5px;
+    
+}
+.text-modal{
+    color: white;
+}
+
+
+.h2{
+    text-align: center;
+    color: white ;
+
+}
+.submitt {
+    text-align: end;
+}
+.close{
+  margin-right: 4px;
+}
+.list-item{
+    font-weight: bold;
+    text-align: center;
+}

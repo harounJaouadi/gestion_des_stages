@@ -1,0 +1,20 @@
+.list{
+    
+    border-left: solid #dee2e6 1px;
+    border-right: solid #dee2e6 1px;
+    border-top: solid #dee2e6 1px;
+    border-radius: 1%;
+
+}
+
+.text{
+    text-align: center;
+}
+.table-container {
+    display: block;
+    max-width: 1320px;
+    max-width: 1320px;
+    margin: 0 auto;
+    overflow-x: auto;
+    white-space: nowrap;
+}

@@ -1,0 +1,11 @@
+.title{
+    margin-top: 5%;
+    text-align: center;
+}
+.add {
+    justify-content: space-between;
+    display: flex;
+}
+.h4{
+    display: inline;
+}
